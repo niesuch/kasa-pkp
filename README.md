@@ -28,8 +28,7 @@
 * Zainstalowana maszyna wirtualną Javy w wersji JRE 7+
 
 ## Instalacja programu:
-<p align="justify">Aby zacząć używać programu wystarczy uruchomić plik o nazwie "[KasaPKP.jar](https://www.dropbox.com/sh/6vv3bpqs8pi977m/AADHu5Q07CcQEsO3WJ5jbuEQa?dl=0)", 
-który dostępny jest w sekcji Linki. </p>
+<p align="justify">Aby zacząć używać programu wystarczy uruchomić plik o nazwie "KasaPKP.jar", który dostępny jest w sekcji Linki. </p>
 
 ## Logi zmian:
 Logi zmian dostępne są pod tym adresem: [CHANGELOG](https://github.com/niesuch/kasapkp/releases)
