@@ -19,8 +19,8 @@
 <p align="justify">Pogram służy do obliczania minimalnej liczby czynnych kas przy zalożeniu, że do wszystkich jest jedna wspólna kolejka. Realizacja systemu kolejkowego - model M/M/n/∞</p>
 
 ## Linki:
-* [Dokumentacja](https://www.dropbox.com/sh/f2d2fnbipnmsp2b/AABlpLcKdyJMmZhE6y3HoVZga?dl=0)
-* [Aplikacja](https://www.dropbox.com/sh/6vv3bpqs8pi977m/AADHu5Q07CcQEsO3WJ5jbuEQa?dl=0)
+* [Dokumentacja](https://github.com/niesuch/kasapkp/tree/master/docs/Dokumentacja)
+* [Aplikacja](https://github.com/niesuch/kasapkp/tree/master/docs/Aplikacja)
 
 ## Wymagane oprogramowanie:
 <p align="justify">Poza małymi wymaganiami sprzętowymi, niezbędne do działania programu jest oprogramowanie wymienione poniżej: </p>
